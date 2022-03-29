@@ -26,7 +26,7 @@ Student complaint management is a system that allows students to register their 
 * Students in the organization
 
 ### How
-* login the app and enter the details
+* Login the Web and enter the details and Queries
 
 
 
