@@ -1,1 +1,1 @@
-# 99007908_Student-Complaint-Management-System
+# 99007908_StudentComplaintManagementSystem
