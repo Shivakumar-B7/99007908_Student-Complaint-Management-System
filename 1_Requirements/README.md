@@ -28,6 +28,22 @@ Student complaint management is a system that allows students to register their 
 ### How
 * Login the Web and enter the details and Queries
 
+## SWOT Analysis
+### Strengths
+* It helps student to inform their problems that they are facing.
+* Student can inform any sort of problems to the management
+* All the problems will be solved once they are registered
+
+### Weakness
+* It will expose the persons that are causing problems
+* It takes time to fix all the problems 
+
+### Opportunities
+* It gives platform to all the students to tell thier issues they are facing
+ 
+### Threat
+* chances are there that students can face some issues buy the persons name they have mentioned
+* Some problems might never get solved
 
 
 
